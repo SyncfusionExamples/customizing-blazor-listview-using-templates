@@ -1,6 +1,6 @@
-using CustomListviewUsingTemplate.Client;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using CustomListviewUsingTemplate.Components;
 using Syncfusion.Blazor;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);

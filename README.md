@@ -12,13 +12,13 @@ The purpose of this project is to help developers understand how to use **templa
 - Integration of Syncfusion **Blazor ListView**
 - Customize ListView **header**, **items**, and **group headers**
 - Template‑based rendering for flexible UI design
-- Blazor WebAssembly‑based application structure
+- Blazor WebAssembly standalone application (.NET 10 project structure)
 - Clean and extensible sample implementation
 
 ## Prerequisites
 Ensure the following requirements are met before running this project:
-- Visual Studio 2022  
-- .NET SDK compatible with Blazor WebAssembly  
+- Visual Studio 2022 (or later) with the .NET 10 SDK  
+- .NET 10.0 SDK (Blazor WebAssembly)  
 - Syncfusion Blazor packages  
 - Valid Syncfusion license key (if required)
 

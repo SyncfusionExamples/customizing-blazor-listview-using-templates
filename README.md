@@ -17,8 +17,8 @@ The purpose of this project is to help developers understand how to use **templa
 
 ## Prerequisites
 Ensure the following requirements are met before running this project:
-- Visual Studio 2022  
-- .NET SDK compatible with Blazor WebAssembly  
+- Visual Studio 2026  
+- .NET 10 SDK compatible with Blazor WebAssembly  
 - Syncfusion Blazor packages  
 - Valid Syncfusion license key (if required)
 
